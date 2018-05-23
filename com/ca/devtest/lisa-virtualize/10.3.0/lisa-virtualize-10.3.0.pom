@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ca.devtest</groupId>
-  <artifactId>lisa-util</artifactId>
-  <version>10.3</version>
+  <artifactId>lisa-virtualize</artifactId>
+  <version>10.3.0</version>
   <description>POM was created from install:install-file</description>
 </project>
